@@ -1,3 +1,8 @@
+# Conway's Game of Life!
+Comway's Game of Life with React.JS
+![image]https://github.com/zhawayc/ConwaysGameofLife/image/screen-shot1.png
+![image]https://github.com/zhawayc/ConwaysGameofLife/image/screen-shot2.png
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
